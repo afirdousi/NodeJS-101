@@ -1,0 +1,26 @@
+{
+  "name": "NodeJS-101",
+  "version": "0.0.1",
+  "description": "Learning & Experimental Repo for Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afirdousi/NodeJS-101.git"
+  },
+  "author": "Anas Raza Firdousi (@AnasFirdousi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afirdousi/NodeJS-101/issues"
+  },
+  "homepage": "https://github.com/afirdousi/NodeJS-101",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "mongoose": "^4.1.11",
+    "morgan": "^1.6.1"
+  }
+}
