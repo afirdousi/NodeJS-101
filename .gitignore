@@ -1,1 +1,4 @@
-//
+## Ignore npm and node modules
+
+npm-debug.log
+node_modules/
